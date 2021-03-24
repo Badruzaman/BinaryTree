@@ -8,3 +8,4 @@ class Node:
         print(self.data)
 Root = Node(10)
 Root.printview()
+print('added')
